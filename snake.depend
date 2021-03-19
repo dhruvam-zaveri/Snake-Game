@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536778616 source:c:\users\dhruvam_zaveri\desktop\my stuff\coding\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1536769887 source:c:\users\dhruvam_zaveri\desktop\my stuff\coding\snake\boder.c
+	<stdio.h>
+	<conio.h>
+
